@@ -1,0 +1,4 @@
+let Name = "Tushar";
+let FullName = `${Name} Hi how are you`;
+
+console.log(FullName);

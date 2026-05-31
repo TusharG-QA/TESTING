@@ -15,6 +15,7 @@ A collection of JavaScript learning examples organized by chapters, covering bas
 - **Chapter 9: User Input** - Taking user input in Node.js
 - **Chapter 10: Loops** - For, while, do-while loops
 - **Chapter 11: Arrays** - Array operations and methods
+- **Chapter 12: Functions** - Function expressions, arrow functions, parameters, return values
 
 ## Prerequisites
 
